@@ -1,0 +1,35 @@
+body{
+    background-image: url('ququ.jpeg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.somm{
+    font-size: 150%;
+    color: black;
+    margin-top: 12%;
+    font-size: 150%;
+    margin-left: 18%;
+    
+}
+
+h1{
+    text-align: center;
+    margin: center ;
+    margin-top: 5%;
+    color: black;
+    background-color: whitesmoke;
+    width: 40%;
+    
+}
+
+.enss{
+    margin-top: 5%;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+

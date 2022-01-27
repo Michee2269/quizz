@@ -1,0 +1,25 @@
+body{
+    background-image: url('one.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+.container{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+
+h2,h1,h3,p{
+    color: black;
+}
+
+:hover{
+    color: white;
+}
+.btn:hover{
+    color: yellowgreen;
+}
+
